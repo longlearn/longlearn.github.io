@@ -1,2 +1,2 @@
-# longlearn.github.io
-Github Pages 搭建网站
+# My Love Story
+Site: http://love.cuiqingcai.com/
